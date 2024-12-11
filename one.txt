@@ -1,2 +1,2 @@
 ths is one.txt file.
- issue fixed
+ issue solved
